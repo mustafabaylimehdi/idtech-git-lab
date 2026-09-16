@@ -1,2 +1,2 @@
 
-istifadəçilərin müxtəlif təlim materiallarına və öyrənmə resurslarına çıxışını təmin edən tədris platformasıdır
+The application uses the configured API_URL as the backend API endpoint.
